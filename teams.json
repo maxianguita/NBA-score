@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "name": "Atlanta Hawks",
+      "logo": "data:image/png;base64,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"
+    },
+    {
+      "id": 2,
+      "name": "Boston Celtics",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Boston_Celtics.svg"
+    },
+    {
+      "id": 3,
+      "name": "Brooklyn Nets",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Brooklyn_Nets_newlogo.svg"
+    },
+    {
+      "id": 4,
+      "name": "Charlotte Hornets",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/c4/Charlotte_Hornets_%282014%29.svg"
+    },
+    {
+      "id": 5,
+      "name": "Chicago Bulls",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/6/67/Chicago_Bulls_logo.svg"
+    },
+    {
+      "id": 6,
+      "name": "Cleveland Cavaliers",
+      "logo": "https://cdn.worldvectorlogo.com/logos/cleveland-cavaliers.svg"
+    },
+    {
+      "id": 7,
+      "name": "Dallas Mavericks",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/9/97/Dallas_Mavericks_logo.svg"
+    },
+    {
+      "id": 8,
+      "name": "Denver Nuggets",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/76/Denver_Nuggets.svg"
+    },
+    {
+      "id": 9,
+      "name": "Detroit Pistons",
+      "logo": "https://cdn.worldvectorlogo.com/logos/detroit-pistons.svg"
+    },
+    {
+      "id": 10,
+      "name": "Golden State Warriors",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/01/Golden_State_Warriors_logo.svg"
+    },
+    {
+      "id": 11,
+      "name": "Houston Rockets",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/28/Houston_Rockets.svg"
+    },
+    {
+      "id": 12,
+      "name": "Indiana Pacers",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg"
+    },
+    {
+      "id": 13,
+      "name": "Los Angeles Clippers",
+      "logo": "https://cdn.worldvectorlogo.com/logos/los-angeles-clippers.svg"
+    },
+    {
+      "id": 14,
+      "name": "Los Angeles Lakers",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+    },
+    {
+      "id": 15,
+      "name": "Memphis Grizzlies",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg"
+    },
+    {
+      "id": 16,
+      "name": "Miami Heat",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg"
+    },
+    {
+      "id": 17,
+      "name": "Milwaukee Bucks",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/4/4a/Milwaukee_Bucks_logo.svg"
+    },
+    {
+      "id": 18,
+      "name": "Minnesota Timberwolves",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/Minnesota_Timberwolves_logo.svg"
+    },
+    {
+      "id": 19,
+      "name": "New Orleans Pelicans",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/0d/New_Orleans_Pelicans_logo.svg"
+    },
+    {
+      "id": 20,
+      "name": "New York Knicks",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg"
+    },
+    {
+      "id": 21,
+      "name": "Oklahoma City Thunder",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/5d/Oklahoma_City_Thunder.svg"
+    },
+    {
+      "id": 22,
+      "name": "Orlando Magic",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/1/10/Orlando_Magic_logo.svg"
+    },
+    {
+      "id": 23,
+      "name": "Philadelphia 76ers",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg"
+    },
+    {
+      "id": 24,
+      "name": "Phoenix Suns",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/d/dc/Phoenix_Suns_logo.svg"
+    },
+    {
+      "id": 25,
+      "name": "Portland Trail Blazers",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/21/Portland_Trail_Blazers_logo.svg"
+    },
+    {
+      "id": 26,
+      "name": "Sacramento Kings",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg"
+    },
+    {
+      "id": 27,
+      "name": "San Antonio Spurs",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg"
+    },
+    {
+      "id": 28,
+      "name": "Toronto Raptors",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg"
+    },
+    {
+      "id": 29,
+      "name": "Utah Jazz",
+      "logo": "https://cdn.worldvectorlogo.com/logos/utah-jazz-1.svg"
+    },
+    {
+      "id": 30,
+      "name": "Washington Wizards",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Washington_Wizards_logo.svg"
+    }
+  ]
+  

@@ -1,0 +1,363 @@
+{
+    "equipos": [
+      {
+        "nombre": "Boston Celtics",
+        "abbreviatura": "BOS",
+        "jugadores": [
+          {
+            "nombre": "Jayson Tatum",
+            "posición": "Alero",
+            "estadísticas": {
+              "puntos": 30.3,
+              "rebotes": 9.1,
+              "asistencias": 4.5,
+              "robos": 1.2,
+              "bloqueos": 0.9,
+              "porcentaje_tiros": 46.9
+            },
+            "imagen": "jayson-tatum"
+          },
+          {
+            "nombre": "Kristaps Porzingis",
+            "posición": "Ala-pívot",
+            "estadísticas": {
+              "puntos": 19.2,
+              "rebotes": 8.4,
+              "asistencias": 1.4,
+              "robos": 0.8,
+              "bloqueos": 2.0,
+              "porcentaje_tiros": 43.7
+            },
+            "imagen": "kristaps-porzingis"
+          },
+          {
+            "nombre": "Jaylen Brown",
+            "posición": "Escolta",
+            "estadísticas": {
+              "puntos": 26.6,
+              "rebotes": 6.8,
+              "asistencias": 3.5,
+              "robos": 1.1,
+              "bloqueos": 0.6,
+              "porcentaje_tiros": 47.3
+            },
+            "imagen": "jaylen-brown"
+          },
+          {
+            "nombre": "Derrick White",
+            "posición": "Base",
+            "estadísticas": {
+              "puntos": 12.4,
+              "rebotes": 3.6,
+              "asistencias": 3.4,
+              "robos": 1.1,
+              "bloqueos": 0.4,
+              "porcentaje_tiros": 45.3
+            },
+            "imagen": "derrick-white"
+          }
+          
+        ]
+      },
+      {
+        "nombre": "Phoenix Suns",
+        "abbreviatura": "PHX",
+        "jugadores": [
+          {
+            "nombre": "Devin Booker",
+            "posición": "Escolta",
+            "estadísticas": {
+              "puntos": 26.6,
+              "rebotes": 4.2,
+              "asistencias": 4.5,
+              "robos": 1.1,
+              "bloqueos": 0.3,
+              "porcentaje_tiros": 45.2
+            },
+            "imagen": "Devin Booker"
+          },
+          {
+            "nombre": "Grayson Allen",
+            "posición": "Escolta",
+            "estadísticas": {
+              "puntos": 11.9,
+              "rebotes": 3.5,
+              "asistencias": 2.6,
+              "robos": 0.7,
+              "bloqueos": 0.3,
+              "porcentaje_tiros": 42.1
+            },
+            "imagen": "grayson-allen"
+          },          
+          {
+            "nombre": "Bradley Beal",
+            "posición": "Escolta",
+            "estadísticas": {
+              "puntos": 23.2,
+              "rebotes": 4.3,
+              "asistencias": 5.2,
+              "robos": 1.1,
+              "bloqueos": 0.2,
+              "porcentaje_tiros": 45.3
+            },
+            "imagen": "bradley-beal"
+          },
+          {
+            "nombre": "Kevin Durant",
+            "posición": "Alero",
+            "estadísticas": {
+              "puntos": 29.1,
+              "rebotes": 6.8,
+              "asistencias": 5.4,
+              "robos": 1.0,
+              "bloqueos": 1.3,
+              "porcentaje_tiros": 49.3
+            },
+            "imagen": "kevin-durant"
+          }
+          
+          
+        ]
+      },
+      {
+        "nombre": "Chicago Bulls",
+        "abbreviatura": "CHI",
+        "jugadores": [
+          {
+            "nombre": "Zach LaVine",
+            "posición": "Escolta",
+            "estadísticas": {
+              "puntos": 24.5,
+              "rebotes": 4.6,
+              "asistencias": 4.1,
+              "robos": 1.1,
+              "bloqueos": 0.3,
+              "porcentaje_tiros": 48.5
+            },
+            "imagen": "Zach LaVine"
+          },
+          {
+            "nombre": "Nikola Vucevic",
+            "posición": "Pívot",
+            "estadísticas": {
+              "puntos": 17.5,
+              "rebotes": 11.5,
+              "asistencias": 3.2,
+              "robos": 0.8,
+              "bloqueos": 1.0,
+              "porcentaje_tiros": 51.7
+            },
+            "imagen": "Nikola Vucevic"
+          },
+          {
+            "nombre": "Coby White",
+            "posición": "Base",
+            "estadísticas": {
+              "puntos": 12.6,
+              "rebotes": 3.5,
+              "asistencias": 4.0,
+              "robos": 0.8,
+              "bloqueos": 0.2,
+              "porcentaje_tiros": 44.2
+            },
+            "imagen": "coby-white"
+          },
+          {
+            "nombre": "Jalen Smith",
+            "posición": "Ala-pívot",
+            "estadísticas": {
+              "puntos": 9.6,
+              "rebotes": 5.8,
+              "asistencias": 0.8,
+              "robos": 0.3,
+              "bloqueos": 0.9,
+              "porcentaje_tiros": 47.5
+            },
+            "imagen": "jalen-smith"
+          }
+          
+          
+        ]
+      },
+      {
+        "nombre": "Los Angeles Lakers",
+        "abbreviatura": "LAL",
+        "jugadores": [
+          {
+            "nombre": "LeBron James",
+            "posición": "Alero",
+            "estadísticas": {
+              "puntos": 25.4,
+              "rebotes": 8.3,
+              "asistencias": 7.9,
+              "robos": 1.1,
+              "bloqueos": 0.6,
+              "porcentaje_tiros": 50.6
+            },
+            "imagen": "LeBron James"
+          },
+          {
+            "nombre": "Anthony Davis",
+            "posición": "Pívot",
+            "estadísticas": {
+              "puntos": 23.2,
+              "rebotes": 10.1,
+              "asistencias": 2.6,
+              "robos": 1.2,
+              "bloqueos": 2.0,
+              "porcentaje_tiros": 53.7
+            },
+            "imagen": "Anthony Davis"
+          },
+          {
+            "nombre": "Dalton Knecht",
+            "posición": "Base",
+            "estadísticas": {
+              "puntos": 18.5,
+              "rebotes": 7.1,
+              "asistencias": 7.1,
+              "robos": 1.2,
+              "bloqueos": 0.3,
+              "porcentaje_tiros": 41.8
+            },
+            "imagen": "dalton-knecht"
+          },
+          {
+            "nombre": "Rui Hachimura",
+            "posición": "Alero",
+            "estadísticas": {
+              "puntos": 12.8,
+              "rebotes": 4.6,
+              "asistencias": 1.6,
+              "robos": 0.6,
+              "bloqueos": 0.5,
+              "porcentaje_tiros": 46.5
+            },
+            "imagen": "rui-hachimura"
+          }
+          
+          
+        ]
+      },
+      {
+        "nombre": "Dallas Mavericks",
+        "abbreviatura": "DAL",
+        "jugadores": [
+          {
+            "nombre": "Luka Dončić",
+            "posición": "Escolta",
+            "estadísticas": {
+              "puntos": 28.2,
+              "rebotes": 8.6,
+              "asistencias": 8.5,
+              "robos": 1.0,
+              "bloqueos": 0.3,
+              "porcentaje_tiros": 46.2
+            },
+            "imagen": "Luka Dončić"
+          },
+          {
+            "nombre": "Tim Hardaway Jr.",
+            "posición": "Escolta",
+            "estadísticas": {
+              "puntos": 15.8,
+              "rebotes": 3.0,
+              "asistencias": 2.5,
+              "robos": 0.9,
+              "bloqueos": 0.2,
+              "porcentaje_tiros": 42.6
+            },
+            "imagen": "Tim Hardaway Jr"
+          },
+          {
+            "nombre": "Kyrie Irving",
+            "posición": "Base",
+            "estadísticas": {
+              "puntos": 27.2,
+              "rebotes": 4.0,
+              "asistencias": 5.4,
+              "robos": 1.2,
+              "bloqueos": 0.3,
+              "porcentaje_tiros": 49.1
+            },
+            "imagen": "kyrie-irving"
+          },
+          {
+            "nombre": "Klay Thompson",
+            "posición": "Escolta",
+            "estadísticas": {
+              "puntos": 21.9,
+              "rebotes": 4.1,
+              "asistencias": 2.4,
+              "robos": 0.8,
+              "bloqueos": 0.4,
+              "porcentaje_tiros": 43.6
+            },
+            "imagen": "klay-thompson"
+          }
+          
+        ]
+      },
+      {
+        "nombre": "Golden State Warriors",
+        "abbreviatura": "GSW",
+        "jugadores": [
+            {
+                "nombre": "Stephen Curry",
+                "posición": "Base",
+                "estadísticas": {
+                    "puntos": 29.4,
+                    "rebotes": 6.1,
+                    "asistencias": 6.3,
+                    "robos": 1.4,
+                    "bloqueos": 0.4,
+                    "porcentaje_tiros": 49.3
+                },
+                "imagen": "stephen-curry"
+            },
+            {
+                "nombre": "Jonathan Kuminga",
+                "posición": "Alero",
+                "estadísticas": {
+                    "puntos": 9.9,
+                    "rebotes": 3.4,
+                    "asistencias": 1.2,
+                    "robos": 0.6,
+                    "bloqueos": 0.5,
+                    "porcentaje_tiros": 52.5
+                },
+                "imagen": "jonathan-kuminga"
+            },
+            {
+                "nombre": "Buddy Hield",
+                "posición": "Escolta",
+                "estadísticas": {
+                    "puntos": 16.8,
+                    "rebotes": 5.0,
+                    "asistencias": 2.8,
+                    "robos": 0.8,
+                    "bloqueos": 0.3,
+                    "porcentaje_tiros": 45.8
+                },
+                "imagen": "buddy-hield"
+            },
+            {
+                "nombre": "Bradin Podziemski",
+                "posición": "Escolta",
+                "estadísticas": {
+                    "puntos": 8.4,
+                    "rebotes": 4.2,
+                    "asistencias": 2.1,
+                    "robos": 0.9,
+                    "bloqueos": 0.2,
+                    "porcentaje_tiros": 47.3
+                },
+                "imagen": "bradin-podziemski"
+            }
+        ]
+    }
+
+    ]
+  }
+
+  
